@@ -61,20 +61,20 @@ end
 puts viking.gold_coins
 
 
-# viking.do_battle(5)
-# viking.do_battle(5)
-#
-# viking.do_battle(5)
-# viking.do_battle(5)
-#
-# viking.do_battle(5)
-# viking.do_battle(5)
-#
-# viking.do_battle(5)
-# viking.do_battle(5)
-#
-# viking.do_battle(5)
-# viking.do_battle(5)
+viking.do_battle(5)
+viking.do_battle(5)
+
+viking.do_battle(5)
+viking.do_battle(5)
+
+viking.do_battle(5)
+viking.do_battle(5)
+
+viking.do_battle(5)
+viking.do_battle(5)
+
+viking.do_battle(5)
+viking.do_battle(5)
 puts viking.lives
 viking.level_up
 puts viking.lives
